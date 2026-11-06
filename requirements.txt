@@ -1,0 +1,8 @@
+# Simulator cells checked with these versions (November 2026).
+qiskit>=2.6
+qiskit-aer>=0.18
+qiskit-ibm-runtime>=0.51
+numpy
+matplotlib
+pylatexenc
+jupyterlab
