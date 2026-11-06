@@ -9,7 +9,6 @@
 
 **Mario Córdoba Burgueño** · [LinkedIn](https://www.linkedin.com/in/mariocordobaburgueno/)<br>
 Teaching innovation project *«Explorando las tecnologías cuánticas: una introducción práctica a la computación cuántica para estudiantes de ciencias»*, led by **Prof. Ángel Rivas Vargas**, Departamento de Física Teórica, Universidad Complutense de Madrid, 2024–25<br>
-Lab sessions done in pairs with Germán Cousillas Martínez.
 
 ---
 
